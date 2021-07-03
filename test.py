@@ -2,4 +2,4 @@
 
 for i in range (7):
 	print(1)
-	print("  1")
+	print("  11")
